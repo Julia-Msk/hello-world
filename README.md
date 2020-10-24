@@ -1,4 +1,3 @@
 # hello-world
-My results
-I deided to post the results of my work, my projects and learning.
-MY fist results - dshboards in Excel.
+I decided to post here the results of my work and projects.
+And fist my dashboards in Excel.
